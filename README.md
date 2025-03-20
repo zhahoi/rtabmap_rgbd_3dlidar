@@ -1,0 +1,2 @@
+# rtabmap_rgbd_3dlidar
+使用realsense d455和velodyne16线3d激光雷达在unitree b1上进行建图和导航。
